@@ -1,4 +1,6 @@
 1. start -> github desktop 
 2. edit webpage 
-3. click pull origin -> commit to main 
+3. click pull origin -> commit to main -> push origin 
+
+
 
